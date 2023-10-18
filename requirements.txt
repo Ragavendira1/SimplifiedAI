@@ -99,7 +99,7 @@ tqdm==4.62.3
 typing-extensions==3.10.0.2
 tzdata==2021.5
 tzlocal==4.1
-urllib3==1.26.7
+urllib3==1.26.18
 visions==0.7.1
 Werkzeug==2.0.2
 win32-setctime==1.0.3
