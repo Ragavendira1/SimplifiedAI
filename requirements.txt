@@ -101,7 +101,7 @@ tzdata==2021.5
 tzlocal==4.1
 urllib3==1.26.7
 visions==0.7.1
-Werkzeug==2.0.2
+Werkzeug==3.0.1
 win32-setctime==1.0.3
 wincertstore==0.2
 supervisor==4.2.2
