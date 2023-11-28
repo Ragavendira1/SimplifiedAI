@@ -16,7 +16,7 @@ cffi==1.15.0
 charset-normalizer==2.0.7
 click==8.0.3
 colorama==0.4.4
-cryptography==35.0.0
+cryptography==41.0.6
 cycler==0.11.0
 dpcpp-cpp-rt==2021.4.0
 et-xmlfile==1.1.0
